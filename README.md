@@ -10,7 +10,7 @@ Sweet, simple, and made to bring a smile to someone special ✨
 To run this project locally, follow these steps:
 
 # Clone the repository
-git clone https://github.com/sujal-kumar/sweet-reveal.git
+git clone https://github.com/sujal-kumar/sweet-reveal-main/sweet-reveal-main.git
 
 # Navigate into the folder
 cd sweet-reveal
